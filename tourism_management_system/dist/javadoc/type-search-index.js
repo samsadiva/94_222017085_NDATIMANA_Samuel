@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"tourism_management_system","l":"login"},{"p":"tourism_management_system","l":"signup"},{"p":"tourism_management_system","l":"Tourism_management_system"}]
